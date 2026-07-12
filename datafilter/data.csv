@@ -1,0 +1,27 @@
+EmployeeID,Name,Age,Department,Salary,JoiningDate,Phone,Email,City
+101,Alice Johnson,28,IT,65000,2022-01-15,9841000001,alice@gmail.com,Kathmandu
+102,Bob Smith,35,HR,55000,2021-03-10,9841000002,bob@gmail.com,Pokhara
+103,Charlie Brown,42,Finance,72000,2019-07-20,9841000003,charlie@gmail.com,Lalitpur
+104,David Wilson,29,IT,68000,2023-05-11,,david@gmail.com,Bhaktapur
+105,Emma Davis,31,Marketing,50000,2020-09-18,9841000005,emma@gmail.com,Kathmandu
+106,Frank Thomas,,Finance,75000,2018-11-22,9841000006,frank@gmail.com,Butwal
+107,Grace Lee,26,HR,48000,2024-02-14,9841000007,grace@gmail.com,Pokhara
+108,Henry Walker,39,IT,82000,2017-04-30,9841000008,henry@gmail.com,Dharan
+109,Isabella Hall,33,Marketing,59000,2022-08-05,,isabella@gmail.com,Kathmandu
+110,Jack White,45,Finance,91000,2016-06-12,9841000010,jack@gmail.com,Biratnagar
+111,Karen Young,27,Sales,47000,2023-01-09,9841000011,karen@gmail.com,Hetauda
+112,Liam Scott,36,Sales,61000,2021-12-19,9841000012,liam@gmail.com,Chitwan
+113,Mia Green,24,HR,46000,2024-04-25,9841000013,mia@gmail.com,Lalitpur
+114,Noah King,38,Marketing,64000,2020-07-17,9841000014,noah@gmail.com,Kathmandu
+115,Olivia Adams,30,IT,70000,2022-10-08,9841000015,olivia@gmail.com,Pokhara
+116,Peter Parker,41,Finance,86000,2019-01-29,,peter@gmail.com,Dharan
+117,Quinn Harris,29,Sales,53000,2023-06-21,9841000017,quinn@gmail.com,Bhaktapur
+118,Rachel Clark,34,IT,69000,2021-08-15,9841000018,rachel@gmail.com,Butwal
+119,Sam Lewis,32,HR,57000,2020-02-11,9841000019,sam@gmail.com,Hetauda
+120,Tina Martin,27,Marketing,51000,2024-05-05,9841000020,tina@gmail.com,Kathmandu
+121,Alice Johnson,28,IT,65000,2022-01-15,9841000001,alice@gmail.com,Kathmandu
+122,Victor Allen,,Sales,56000,2022-09-30,,victor@gmail.com,Chitwan
+123,Wendy Moore,37,Finance,78000,2018-03-16,9841000023,wendy@gmail.com,Biratnagar
+124,Xavier Hill,25,IT,62000,2024-01-10,9841000024,xavier@gmail.com,Lalitpur
+125,Yara Cooper,40,Marketing,73000,2017-12-01,9841000025,yara@gmail.com,Dharan
+126,Zack Evans,29,HR,52000,2023-07-27,9841000026,zack@gmail.com,Kathmandu
