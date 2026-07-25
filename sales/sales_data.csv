@@ -1,0 +1,21 @@
+Product,Category,Region,Quantity,Price,Cost
+Laptop,Electronics,North,8,950,720
+Phone,Electronics,South,15,650,480
+Tablet,Electronics,East,12,420,310
+Monitor,Electronics,West,10,250,180
+Keyboard,Accessories,North,35,45,25
+Mouse,Accessories,South,40,30,15
+Printer,Office,East,7,220,170
+Desk,Office,West,5,350,260
+Chair,Office,North,12,180,130
+Notebook,Stationery,South,60,8,4
+Pen,Stationery,East,100,2,1
+Backpack,Accessories,West,20,60,40
+Speaker,Electronics,North,9,150,100
+Camera,Electronics,South,6,850,670
+Projector,Office,East,4,600,470
+Router,Electronics,West,14,120,80
+USB Drive,Accessories,North,50,18,10
+Headphones,Electronics,South,18,95,65
+Whiteboard,Office,East,6,140,100
+Calculator,Stationery,West,25,22,14
