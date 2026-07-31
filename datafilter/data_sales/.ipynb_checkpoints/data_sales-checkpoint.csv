@@ -1,0 +1,16 @@
+OrderID,Customer,Department,Product,Region,Sales,Profit,Quantity
+1001,Alice,Electronics,Laptop,East,1200,300,2
+1002,Bob,Furniture,Chair,West,250,50,5
+1003,Charlie,Electronics,Phone,North,800,200,3
+1004,David,Clothing,T-Shirt,South,100,30,8
+1005,Eva,Furniture,Table,East,450,90,2
+1006,Frank,Electronics,Monitor,West,350,70,4
+1007,Grace,Clothing,Jacket,North,220,60,2
+1008,Harry,Electronics,Keyboard,South,80,20,10
+1009,Ivy,Furniture,Sofa,East,900,180,1
+1010,Jack,Clothing,Shoes,West,150,40,6
+1011,Kate,Electronics,Mouse,North,60,15,12
+1012,Liam,Furniture,Cabinet,South,700,150,2
+1013,Mia,Electronics,Tablet,East,650,170,3
+1014,Noah,Clothing,Jeans,West,180,45,5
+1015,Olivia,Furniture,Desk,North,500,120,2
